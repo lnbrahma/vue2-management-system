@@ -65,8 +65,7 @@ Refer to [Documentation](https://panjiachen.github.io/vue-element-admin-site/gui
 
 ## Demo
 
-![img.png](img.png)
-![img_1.png](img_1.png)
+![figure2](./src/assets/demo-nav_1.png)
 
 ## Extra
 
