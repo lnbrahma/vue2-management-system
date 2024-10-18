@@ -65,7 +65,8 @@ Refer to [Documentation](https://panjiachen.github.io/vue-element-admin-site/gui
 
 ## Demo
 
-![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
+![img.png](img.png)
+![img_1.png](img_1.png)
 
 ## Extra
 
