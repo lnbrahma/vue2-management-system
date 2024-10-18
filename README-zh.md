@@ -13,6 +13,11 @@
    </a>
 </p>
 
+## Demo
+
+![figure2](./src/assets/demo-nav_1.png)
+![figure2](./src/assets/demo-nav_2.png)
+
 ## Extra
 
 如果你想要根据用户角色来动态生成侧边栏和 router，你可以使用该分支[permission-control](https://github.com/PanJiaChen/vue-admin-template/tree/permission-control)
@@ -26,6 +31,8 @@
 - [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template)
 
 - [awesome-project](https://github.com/PanJiaChen/vue-element-admin/issues/2312)
+
+- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 
 写了一个系列的教程配套文章，如何从零构建后一个完整的后台项目:
 
