@@ -32,7 +32,12 @@ if (process.env.NODE_ENV === 'production') {
 Vue.use(ElementUI, { locale })
 // 如果想要中文版 element-ui，按如下方式声明
 // Vue.use(ElementUI)
-
+Vue.directive('inputFocus', {
+  inserted(el, binding, vnode) {
+    // 聚焦元素
+    el.querySelector('input').focus()
+  }
+})
 Vue.config.productionTip = false
 
 new Vue({
