@@ -66,6 +66,7 @@ Refer to [Documentation](https://panjiachen.github.io/vue-element-admin-site/gui
 ## Demo
 
 ![figure2](./src/assets/demo-nav_1.png)
+![figure2](./src/assets/demo-nav_2.png)
 
 ## Extra
 
@@ -82,6 +83,8 @@ For `typescript` version, you can use [vue-typescript-admin-template](https://gi
 - [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template)
 
 - [awesome-project](https://github.com/PanJiaChen/vue-element-admin/issues/2312)
+
+- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 
 ## Browsers support
 
